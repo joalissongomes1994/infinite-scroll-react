@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+<!-- Logotipo -->
+<h1 align="center">
+  <img alt="infinite scroll react" src="https://github.com/joalissongomes1994/infinite-scroll-react/blob/main/public/favicon.png" width="120px" />
+  <span>Infinite scroll react</span>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Badges -->
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joalissongomes1994/infinite-scroll-react?color=%2304D361?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joalissongomes1994/infinite-scroll-react?color=%2304D361?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joalissongomes1994/infinite-scroll-react?color=%2304D361?style=flat-square">
+</p>
 
-## Available Scripts
+<!-- Sobre o Projeto -->
+## 🚀 Sobre o Projeto
+  > Infinite Scroll react, foi desenvolvido para aprimorar e fixar novos conhecimentos. O foco deste projeto foi construir uma listagem usando a API do       > GitHub, de forma que, ao chegar no final da página, aconteça o incremento na listagem de seguidores enquanto ainda houver.
 
-In the project directory, you can run:
+## 🖼️ Imagens do Projeto
+<div align="center">
+  //<img src="" style={{marginBottom: "20px"}}>
+</div>
+<div align="center">
+  //<img src="">
+</div>
+<div align="center">
+  //<img src="">
+</div>
+<div align="center">
+  //<img src="">
+</div>
 
-### `npm start`
+## 🧰 Tecnologias e Bibliotecas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* [ReactJS](https://pt-br.reactjs.org/tutorial/tutorial.html)
+* [Styled Component](https://www.npmjs.com/package/styled-components)
+* [YUP](https://www.npmjs.com/package/yup)
+* [React hook form](https://react-hook-form.com/get-started)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### Leia sobre a API utilizada neste projeto
+* [DOC GitHub API]([https://docs.github.com/en/developers/overview/about-githubs-apis])
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Link da API utilizada neste projeto
+ * [GitHub]([https://api.github.com])
 
-### `npm run build`
+## ⚙️ Rodando o Projeto
+```bash
+# Clone este repositório para a pasta anterior
+$ git clone https://github.com/joalissongomes1994/infinite-scroll-react.git
+# ou use a opção de download.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Acesse a pasta dtmoney
+$ cd infinite-scroll-react
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Instale as dependências
+$ yarn
+ou
+$ npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Executando o Projeto
+$ yarn start 
+ou
+$ npm run start
 
-### `npm run eject`
+# Acesse http://localhost:3000 no seu navagador
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  [![Linkedin Badge](https://img.shields.io/badge/-Joalisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joalisson-gomes-44b960127/)](https://www.linkedin.com/in/joalisson-gomes-44b960127/) 
+  [![Gmail Badge](https://img.shields.io/badge/-joalisson.webdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joalisson.webdev@gmail.com)](mailto:joalisson.webdev@gmail.com)
