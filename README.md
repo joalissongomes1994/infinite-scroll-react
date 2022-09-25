@@ -11,37 +11,44 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joalissongomes1994/infinite-scroll-react?color=%2304D361?style=flat-square">
 </p>
 
+<br><br>
+
 <!-- Sobre o Projeto -->
 ## 🚀 Sobre o Projeto
-  > Infinite Scroll react, foi desenvolvido para aprimorar e fixar novos conhecimentos. O foco deste projeto foi construir uma listagem usando a API do       > GitHub, de forma que, ao chegar no final da página, aconteça o incremento na listagem de seguidores enquanto ainda houver.
+  > Este porjeto foi desenvolvido para aprimorar e fixar novos conhecimentos. O foco da aplicação é criar uma listagem através do username do GitHub informados pelo usuário, de forma que, ao chegar no final da página, aconteça o incremento na listagem de seguidores, enquanto ainda houver. Para isso, foi usada a API do javascript IntersectionObserver, para monitorar um elemento e saber quando ele está visível, uma vez visto que o elemento foi inserido ao final do último elemento da lista.
+
+<br><br>
 
 ## 🖼️ Imagens do Projeto
-<div align="center">
-  //<img src="" style={{marginBottom: "20px"}}>
+<div align="center" >
+  <img src="https://github.com/joalissongomes1994/infinite-scroll-react/blob/main/public/assets/img-01.png" height="400px" hspace="20">
+  <img src="https://github.com/joalissongomes1994/infinite-scroll-react/blob/main/public/assets/img-02.png" height="400px">
 </div>
+
+<br><br>
+
 <div align="center">
-  //<img src="">
+  <img src="https://github.com/joalissongomes1994/infinite-scroll-react/blob/main/public/assets/img-03.png" height="400px" hspace="20">
+  <img src="https://github.com/joalissongomes1994/infinite-scroll-react/blob/main/public/assets/img-04.png" height="400px">
 </div>
-<div align="center">
-  //<img src="">
-</div>
-<div align="center">
-  //<img src="">
-</div>
+
+<br><br>
 
 ## 🧰 Tecnologias e Bibliotecas
-
 * [ReactJS](https://pt-br.reactjs.org/tutorial/tutorial.html)
 * [Styled Component](https://www.npmjs.com/package/styled-components)
 * [YUP](https://www.npmjs.com/package/yup)
 * [React hook form](https://react-hook-form.com/get-started)
 
+<br><br>
 
 ### Leia sobre a API utilizada neste projeto
-* [DOC GitHub API]([https://docs.github.com/en/developers/overview/about-githubs-apis])
+* [DOC GitHub API](https://docs.github.com/en/developers/overview/about-githubs-apis)
 
 ### Link da API utilizada neste projeto
- * [GitHub]([https://api.github.com])
+* [GitHub](https://api.github.com)
+
+<br><br>
 
 ## ⚙️ Rodando o Projeto
 ```bash
@@ -49,7 +56,7 @@
 $ git clone https://github.com/joalissongomes1994/infinite-scroll-react.git
 # ou use a opção de download.
 
-# Acesse a pasta dtmoney
+# Acesse a pasta infinite-scroll-react
 $ cd infinite-scroll-react
 
 # Instale as dependências
